@@ -67,16 +67,16 @@ Incident closed as Benign / False Positive (test scenario).
 ## 📸 Screenshots
 
 ### 🔍 Log Query Results
-![Logs](screenshots/logs.png)
+![Logs](logs.png)
 
 ### 🚨 Detection Rule
-![Rule](screenshots/rule.png)
+![Rule](rule.png)
 
 ### 📊 Incident Dashboard
-![Incident](screenshots/incident.png)
+![Incident](incident.png)
 
 ### 🧪 Investigation Details
-![Investigation](screenshots/investigation.png)
+![Investigation](investigation.png)
 
 Logs query results
 Detection rule configuration
