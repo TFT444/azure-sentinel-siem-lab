@@ -44,24 +44,39 @@ AzureActivity
 Created a storage container
 Uploaded and deleted files repeatedly within a short time window
 Generated multiple Azure Activity logs
-Triggered detection rule based on abnormal activity frequency
+Triggered detection rule based on abnormal activity frequency.
+
 🚨 Alert & Incident Workflow
 Scheduled analytics rule created in Microsoft Sentinel
 Alert triggered based on detection query
 Incident automatically generated
 Incident assigned and investigated
+
 🔎 Investigation
 Reviewed alert details including user (Caller) and activity timeline
 Verified that actions were performed within a short timeframe
-Confirmed behaviour matched detection criteria
+Confirmed behaviour matched detection criteria.
+
+
 📝 Incident Response
 Incident assigned to analyst
 Status updated to "In Progress"
 Investigation findings documented
-Incident closed as Benign / False Positive (test scenario)
-📸 Screenshots
+Incident closed as Benign / False Positive (test scenario).
 
-(Add screenshots here)
+## 📸 Screenshots
+
+### 🔍 Log Query Results
+![Logs](screenshots/logs.png)
+
+### 🚨 Detection Rule
+![Rule](screenshots/rule.png)
+
+### 📊 Incident Dashboard
+![Incident](screenshots/incident.png)
+
+### 🧪 Investigation Details
+![Investigation](screenshots/investigation.png)
 
 Logs query results
 Detection rule configuration
@@ -74,7 +89,8 @@ Successfully built a functional SIEM environment in Microsoft Sentinel and demon
 Log ingestion
 Detection rule creation
 Alert generation
-Incident investigation and response
+Incident investigation and response.
+
 📈 Skills Demonstrated
 SIEM configuration and management
 Cloud security monitoring
